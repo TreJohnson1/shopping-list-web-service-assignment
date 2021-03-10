@@ -6,10 +6,10 @@
             "Sid": "Stmt1614653286162",
             "Effect": "Allow",
             "Principal": {
-                "AWS": ["arn:aws:iam::<your-account-#>:root"]
+                "AWS": ["arn:aws:iam::<999609133223>:root"]
             },
             "Action": "s3:*",
-            "Resource": "arn:aws:s3:::desu-rmoten-shopping-list-app"
+            "Resource": "arn:aws:s3:::desu-tjohnson-shopping-list-app"
         }
     ]
 }
